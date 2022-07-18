@@ -1,0 +1,22 @@
+/*css code*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-color:#bdbdbd;
+
+}
+nav,footer{
+    background-color:#fff ;
+}
+a{
+    text-decoration: none;
+    font-size:1.5em;
+}
+h1,
+h2,
+h3{
+    letter spacing:0.1em;
+}
